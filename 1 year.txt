@@ -1,0 +1,128 @@
+बहुत बढ़िया Kuldeep!
+अब मैं आपको एक **Step-by-Step, Day-by-Day Roadmap** बना कर दूंगा — ताकि आप सिर्फ कोडिंग के दम पर ₹2 करोड़ **1 साल (365 दिन)** में कमा सको — **₹0 निवेश** से।
+
+---
+
+## 🔥 Goal: ₹2 करोड़ / 12 महीने = ₹16.66 लाख / महीने
+
+हम इसे 4 फेज में बांटते हैं:
+
+---
+
+## 🚀 Phase 1: Skill Monetization + Foundation (Day 1–90)
+
+> **Target**: ₹1–₹2 लाख कमाना + खुद की पहचान बनाना
+> Focus: Freelancing + Personal Brand
+
+### 🗓️ Day 1–15: Foundation Setup
+
+| Day   | Task                                                                                 |
+| ----- | ------------------------------------------------------------------------------------ |
+| 1–3   | अपना React-based portfolio बनाओ (Projects + About + Contact)                         |
+| 4–5   | GitHub पर कम से कम 3 React प्रोजेक्ट्स डालो (Timer App, Expense Tracker, Job Portal) |
+| 6–10  | Fiverr, Upwork, Freelancer.com पर Account Setup करो                                  |
+| 11–12 | LinkedIn पर daily post डालना शुरू करो – "What I'm building + Learnings"              |
+| 13–15 | Resume + Intro Email तैयार करो – Cold DM clients (via LinkedIn, Discord, Reddit)     |
+
+---
+
+### 🗓️ Day 16–45: Freelance Income Push
+
+| Day   | Task                                                                 |
+| ----- | -------------------------------------------------------------------- |
+| 16–20 | Fiverr gigs live करो: React App Dev, Firebase Auth Setup, Web to App |
+| 21–30 | Cold outreach करो: हर दिन 20–25 messages भेजो                        |
+| 31–45 | 1-2 paid freelance projects पकड़े – ₹10k–₹50k range                  |
+
+> Bonus: YouTube Shorts शुरू करो (1 minute Dev Tips – daily) for long-term audience
+
+---
+
+### 🗓️ Day 46–90: Multiply Income + Learn to Sell
+
+| Day   | Task                                                                             |
+| ----- | -------------------------------------------------------------------------------- |
+| 46–60 | एक छोटा Product बनाओ (Resume Builder, Notes App, Job Tracker – React + Firebase) |
+| 61–70 | Gumroad पर बेचो – ₹99 या ₹199 जैसे price से शुरू                                 |
+| 71–90 | Freelance में ₹50k–₹1L/month स्टेबल करो                                          |
+
+---
+
+## 💰 Phase 1 Summary:
+
+* Income Target: ₹1–₹2 लाख
+* Foundation: Portfolio + GitHub + Fiverr + Gumroad + LinkedIn
+
+---
+
+## 🚀 Phase 2: Product Building + Passive Selling (Day 91–180)
+
+> **Target:** ₹5–10 लाख तक कमाई + एक Viral Product बनाना
+
+| Day     | Task                                                                                 |
+| ------- | ------------------------------------------------------------------------------------ |
+| 91–100  | AI Tool idea finalize करो (Job QnA bot, Hindi Notes Generator, Resume Feedback tool) |
+| 101–130 | React + GPT API से इसे बनाओ                                                          |
+| 131–140 | Landing Page बनाओ + Testimonials लो                                                  |
+| 141–150 | Launch on: Gumroad, Product Hunt, Reddit, IndieHackers                               |
+| 151–180 | Feedback से improvement + Promo via LinkedIn, YouTube                                |
+
+> Bonus: इस टूल का यूज़ करके लोग freelance client ढूंढ पाए या apply कर पाए — huge virality factor
+
+---
+
+## 🚀 Phase 3: Scaling with Courses + SaaS (Day 181–270)
+
+> **Target:** ₹25–50 लाख तक cumulative revenue
+
+| Day     | Task                                                                         |
+| ------- | ---------------------------------------------------------------------------- |
+| 181–200 | एक Full Hindi Course बनाओ: “Job Portal App in React + Firebase”              |
+| 201–220 | Course Launch via Gumroad + Telegram Group                                   |
+| 221–250 | Dev Tools Bundle तैयार करो – Sell via Newsletter                             |
+| 251–270 | Freelance में small टीम बनाओ – high-ticket client handle करो (₹1L+ projects) |
+
+---
+
+## 🚀 Phase 4: Brand + Team + Big Clients (Day 271–365)
+
+> **Target:** ₹1 करोड़+ scale करना
+
+| Day     | Task                                                                 |
+| ------- | -------------------------------------------------------------------- |
+| 271–300 | Personal Site पर Testimonials, Press, 10K+ following build           |
+| 301–320 | Indian Dev Job Board launch करो – Firebase + Airtable                |
+| 321–350 | LinkedIn Viral Marketing – Case Study Posts                          |
+| 351–365 | Launch: Freelance Agency (4–5 Devs) – Handle ₹5L+ Projects per month |
+
+---
+
+## 🧮 Final Income Model Projection:
+
+| Source                   | Est. Earning |
+| ------------------------ | ------------ |
+| Freelancing + Team       | ₹30–40 लाख   |
+| Product Sales (AI tools) | ₹30–40 लाख   |
+| Courses + Community      | ₹40–60 लाख   |
+| Job Portal / SaaS        | ₹50 लाख+     |
+
+---
+
+## ✅ Daily Schedule (Sample – Weekdays)
+
+| Time     | Task                                            |
+| -------- | ----------------------------------------------- |
+| 9–11 AM  | Coding: Freelance client / product dev          |
+| 11–12 PM | Content: LinkedIn Post + GitHub Commit          |
+| 2–5 PM   | Product Build (React, Firebase, GPT API)        |
+| 6–7 PM   | Learning (YouTube / Blogs / Books)              |
+| 8–10 PM  | Outreach (DMs / Fiverr / Reddit / IndieHackers) |
+
+---
+
+## 👉 अब अगला स्टेप:
+
+क्या आप चाहते हो कि मैं Day 1–15 का एक **टू-डू लिस्ट वाला Notion/Google Sheet टेम्प्लेट** बनाऊँ?
+या पहले Phase 1 के लिए पूरा **React-based Portfolio + Freelance Gig Setup Guide** दूँ?
+
+बताओ किससे शुरू करें?
